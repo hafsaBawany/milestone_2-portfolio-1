@@ -52,7 +52,7 @@ const Hero = () => {
 
        
         <div className="mt-20 max-w-2xl text-center">
-          <h2 className="text-4xl font-bold mb-4 sm:text-3xl">Featured Projects</h2>
+          <h2 className="text-4xl font-bold mb-4 sm:text-3xl">On going Projects</h2>
 
           <p className="text-lg leading-relaxed mb-6 sm:text-base">
              Here are some of my highlighted projects:
